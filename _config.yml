@@ -1,14 +1,19 @@
-title: Kellie Thomsen Blog
+title: Kellie Thomsen
 author:
   name: Kellie Thomsen
-  email: your-email@domain.com
+  email: 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Hello! I am a stormwater engineer with a Master's degree in Data Science, 
+  and I write about my journey so far on my blog. I am incredibly fortunate 
+  to have found a way to combine my passion for engineering and data science. 
+  My goal is to inspire others to see the potential of data science in their 
+  daily lives, especially in my profession. I am continuously learning and 
+  expanding my skills in both areas, and I am grateful for all the opportunities 
+  that have come my way. Writing about data science has been an excellent way 
+  for me to share my knowledge and connect with others who share my interests. 
 
 # Build settings
 
