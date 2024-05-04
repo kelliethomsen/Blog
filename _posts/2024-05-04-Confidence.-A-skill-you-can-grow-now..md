@@ -1,5 +1,9 @@
 ---
 layout: post
+title: "Confidence. A skill you can grow now."
+categories: Mindset
+author:
+- Kellie Thomsen
 ---
 Confidence. ‘The quality of being certain of your abilities or having trust in people, plans, or the
 future’ – Cambridge Dictionary.
